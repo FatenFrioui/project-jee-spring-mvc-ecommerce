@@ -32,7 +32,7 @@ Model
 - Produit
 - Contient
 - Ligne_panier
-- Lommande
+- Commande
 - Admin
   => Création automatique des entités dans la base de données MYSQL après l'execusion de projet
 <img src="src/main/resources/static/Capture_bdd.PNG" width="60%">
